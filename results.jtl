@@ -1,0 +1,30 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1782418743829,1149,Переход на страницу кинотеатра,200,OK,Thread Group 1-1,text,true,,81113,5563,1,1,http://localhost:8000/client/index.php,248,0,38
+1782418743829,264,Переход на страницу кинотеатра-0,200,OK,Thread Group 1-1,text,true,,5132,645,1,1,http://localhost:8000/client/index.php,248,0,38
+1782418744249,5,Переход на страницу кинотеатра-1,200,OK,Thread Group 1-1,text,true,,6360,705,1,1,http://localhost:8000/client/css/normalize.css,5,0,0
+1782418744249,8,Переход на страницу кинотеатра-2,200,OK,Thread Group 1-1,text,true,,9117,702,1,1,http://localhost:8000/client/css/styles.css,8,0,2
+1782418744249,7,Переход на страницу кинотеатра-3,200,OK,Thread Group 1-1,text,true,,3700,699,1,1,http://localhost:8000/client/js/index.js,7,0,1
+1782418744250,728,Переход на страницу кинотеатра-4,200,OK,Thread Group 1-1,text,true,,2016,715,1,1,"https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&subset=cyrillic,cyrillic-ext,latin-ext",726,0,674
+1782418744250,9,Переход на страницу кинотеатра-5,200,OK,Thread Group 1-1,bin,true,,18263,699,1,1,http://localhost:8000/img/posters/80.png,8,0,1
+1782418744250,9,Переход на страницу кинотеатра-6,200,OK,Thread Group 1-1,bin,true,,18263,699,1,1,http://localhost:8000/img/posters/82.png,8,0,1
+1782418744260,4,Переход на страницу кинотеатра-7,200,OK,Thread Group 1-1,bin,true,,18262,699,1,1,http://localhost:8000/img/posters/81.png,4,0,0
+1782418753500,58,Выбор зала,200,OK,Thread Group 1-1,text,true,,8581,6143,1,1,http://localhost:8000/client/hall.php,13,0,3
+1782418753500,13,Выбор зала-0,200,OK,Thread Group 1-1,text,true,,5068,697,1,1,http://localhost:8000/client/hall.php,13,0,3
+1782418753519,3,Выбор зала-1,304,Not Modified,Thread Group 1-1,,true,,249,793,1,1,http://localhost:8000/client/css/normalize.css,0,0,0
+1782418753519,6,Выбор зала-2,304,Not Modified,Thread Group 1-1,,true,,250,790,1,1,http://localhost:8000/client/css/styles.css,0,0,2
+1782418753519,6,Выбор зала-3,304,Not Modified,Thread Group 1-1,,true,,249,786,1,1,http://localhost:8000/client/js/index.js,0,0,2
+1782418753519,39,Выбор зала-4,200,OK,Thread Group 1-1,text,true,,2016,716,1,1,"https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&subset=cyrillic,cyrillic-ext,latin-ext",39,0,0
+1782418753519,5,Выбор зала-5,304,Not Modified,Thread Group 1-1,,true,,250,787,1,1,http://localhost:8000/img/posters/80.png,0,0,2
+1782418753519,6,Выбор зала-6,304,Not Modified,Thread Group 1-1,,true,,250,787,1,1,http://localhost:8000/img/posters/82.png,0,0,2
+1782418753524,2,Выбор зала-7,304,Not Modified,Thread Group 1-1,,true,,249,787,1,1,http://localhost:8000/img/posters/81.png,0,0,0
+1782418762009,47,Бронирование мест,200,OK,Thread Group 1-1,text,true,,8581,6146,1,1,http://localhost:8000/client/payment.php,10,0,2
+1782418762009,10,Бронирование мест-0,200,OK,Thread Group 1-1,text,true,,5068,700,1,1,http://localhost:8000/client/payment.php,10,0,2
+1782418762025,4,Бронирование мест-1,304,Not Modified,Thread Group 1-1,,true,,250,793,1,1,http://localhost:8000/client/css/normalize.css,0,0,1
+1782418762025,5,Бронирование мест-2,304,Not Modified,Thread Group 1-1,,true,,250,790,1,1,http://localhost:8000/client/css/styles.css,0,0,1
+1782418762025,5,Бронирование мест-3,304,Not Modified,Thread Group 1-1,,true,,249,786,1,1,http://localhost:8000/client/js/index.js,0,0,1
+1782418762025,31,Бронирование мест-4,200,OK,Thread Group 1-1,text,true,,2016,716,1,1,"https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&subset=cyrillic,cyrillic-ext,latin-ext",31,0,0
+1782418762025,2,Бронирование мест-5,304,Not Modified,Thread Group 1-1,,true,,249,787,1,1,http://localhost:8000/img/posters/80.png,0,0,0
+1782418762025,5,Бронирование мест-6,304,Not Modified,Thread Group 1-1,,true,,250,787,1,1,http://localhost:8000/img/posters/82.png,0,0,1
+1782418762028,2,Бронирование мест-7,304,Not Modified,Thread Group 1-1,,true,,249,787,1,1,http://localhost:8000/img/posters/81.png,0,0,0
+1782418765428,5,Нажимаем кнопку получения QR-кода,200,OK,Thread Group 1-1,text,true,,338,710,1,1,http://localhost:8000/client/scripts/sale_save.php,5,0,0
+1782418743660,1259,Test,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,98613,18562,1,1,null,276,20510,43
